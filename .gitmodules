@@ -27,3 +27,6 @@
 [submodule "ME22B208"]
 	path = ME22B208
 	url = https://github.com/TrishaWadhwani/ME22B208.git
+[submodule "ee22b151"]
+	path = ee22b151
+	url = https://github.com/fiddlestone151/ee22b151.git
