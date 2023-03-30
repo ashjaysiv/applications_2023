@@ -10,3 +10,4 @@ Applications received from :
 * Micheal Scott
 * BracedHornet186
 * Trisha
+* fiddlestone
