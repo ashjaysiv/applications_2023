@@ -36,3 +36,6 @@
 [submodule "cs20b018"]
 	path = cs20b018
 	url = https://github.com/chathur018/cs20b018.git
+[submodule "CE21B024_Abhiyaan"]
+	path = CE21B024_Abhiyaan
+	url = https://github.com/ashjaysiv/CE21B024_Abhiyaan.git
