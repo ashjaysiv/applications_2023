@@ -30,6 +30,9 @@
 [submodule "ee22b151"]
 	path = ee22b151
 	url = https://github.com/fiddlestone151/ee22b151.git
+[submodule "bs21b034_Abhiyaan_app2023"]
+	path = bs21b034_Abhiyaan_app2023
+	url = https://github.com/PettaBoy/bs21b034_Abhiyaan_app2023.git
 [submodule "cs20b018"]
 	path = cs20b018
 	url = https://github.com/chathur018/cs20b018.git
